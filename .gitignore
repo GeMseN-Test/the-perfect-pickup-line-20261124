@@ -1,0 +1,5 @@
+# kit / build artifacts (never committed)
+*-kit/
+kit.tar.gz
+__pycache__/
+/output/
